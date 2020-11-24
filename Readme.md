@@ -28,7 +28,10 @@ Features
 * Live syntax checker (currently JavaScript/CoffeeScript/CSS/XQuery)
 * Cut, copy, and paste functionality
 * THis is my ACE
-
+*
+* Mon 23 Nov 22:59:21 2020 
+* ACE is in $b/haskellwebapp2/
+*
 Take Ace for a spin!
 --------------------
 
