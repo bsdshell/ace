@@ -27,6 +27,7 @@ Features
 * Multiple cursors and selections
 * Live syntax checker (currently JavaScript/CoffeeScript/CSS/XQuery)
 * Cut, copy, and paste functionality
+* THis is my ACE
 
 Take Ace for a spin!
 --------------------
